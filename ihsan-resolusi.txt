@@ -1,3 +1,4 @@
 IHSAN RESOLUSI
 - minggu ini dapat membuat aplikasi keyboard dengan react native
 - dapat bekerja dengan maksimal di tempat PKL nanti
+- dapat membuat aplikasi sendiri
