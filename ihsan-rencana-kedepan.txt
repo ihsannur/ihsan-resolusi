@@ -1,4 +1,6 @@
 RENCANA KEDEEPAN
- buat aplikasi 
+ - buat aplikasi 
+   buat keyboard titik
  buat web 
+ 
  
